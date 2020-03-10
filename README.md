@@ -1,2 +1,2 @@
 # Airbnb_Project
-The Project explores which factors have the most impact on occupancy rate and profitability in Airbnb housing market
+This Project explores the factors that have the most impact on occupancy rate and profitability in Airbnb housing market. My partner and I cleaned the data and built several regression models for two dependant variables, Price and Occupancy rate, to explain and estimate the main factors that contribute to the Price and Occupancy rate on NY Airbnb housing data. And then we have tested our model perfomance on Los Angeles Airbnb data to check how good our models can be generalized on completely different Airbnb housing market.    
